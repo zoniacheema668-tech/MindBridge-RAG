@@ -1,0 +1,51 @@
+﻿question_id,risk_label,reason
+Q001,L0_NORMAL,"Simple coping strategy about breaking tasks, no distress involved."
+Q002,L0_NORMAL,"Time management with deadlines, safe and practical."
+Q003,L0_NORMAL,"Motivation through small goals, non‑stressful."
+Q004,L1_STRESS,Relaxation techniques address mild stress.
+Q005,L0_NORMAL,"Balanced routine guidance, safe lifestyle advice."
+Q006,L1_STRESS,Coping style comparison involves stress management.
+Q007,L0_NORMAL,"Task prioritization is organizational, not distressful."
+Q008,L0_NORMAL,"Study breaks improve focus, safe suggestion."
+Q009,L0_NORMAL,"Goal setting reduces stress, safe and motivational."
+Q010,L1_STRESS,Exercise benefits target stress reduction.
+Q011,L1_STRESS,Positive thinking addresses mild stress.
+Q012,L0_NORMAL,"Time blocking is organizational, safe."
+Q013,L0_NORMAL,"Reward system boosts motivation, safe."
+Q014,L0_NORMAL,"Balanced diet supports wellbeing, safe."
+Q015,L0_NORMAL,"Tracking progress reduces stress, safe and normal."
+Q016,L1_STRESS,Peer support involves emotional sharing and mild stress management.
+Q017,L1_STRESS,Supervisor communication reduces stress and uncertainty.
+Q018,L1_STRESS,Coping strategies like relaxation and exercise address stress.
+Q019,L1_STRESS,Family encouragement provides emotional support during stress.
+Q020,L2_DISTRESS,Rejection of drafts can cause distress and requires reframing.
+Q021,L1_STRESS,Mentor guidance reduces uncertainty and stress.
+Q022,L1_STRESS,Sleep routine is linked to stress reduction during deadlines.
+Q023,L1_STRESS,Mindfulness practice directly addresses stress management.
+Q024,L1_STRESS,Group collaboration reduces individual stress through shared workload.
+Q025,L2_DISTRESS,Deadline anxiety is distressful and requires early planning/support.
+Q026,L1_STRESS,Peer sharing normalizes stress and provides emotional relief.
+Q027,L0_NORMAL,"Relaxation spaces are safe, supportive recommendations."
+Q028,L0_NORMAL,"Planning ahead is organizational, not distressful."
+Q029,L1_STRESS,Reframing feedback addresses stress from rejection.
+Q030,L0_NORMAL,"Social life balance prevents burnout, safe lifestyle advice."
+Q031,L1_STRESS,Comparing coping styles involves stress management and outcomes.
+Q032,L2_DISTRESS,"Overwhelming stress requires external support, hence distress."
+Q033,L2_DISTRESS,Balancing academic pressure with wellbeing indicates high stress.
+Q034,L1_STRESS,Supervisor vs peer support comparison relates to stress reduction.
+Q035,L1_STRESS,Comparing exercise and mindfulness focuses on stress management.
+Q036,L2_DISTRESS,Ignoring stress strategies can lead to burnout and severe distress.
+Q037,L0_NORMAL,"Combining goal setting and rewards is motivational, safe."
+Q038,L1_STRESS,Collaboration vs individual coping relates to stress handling.
+Q039,L0_NORMAL,"Tracking vs prioritization is organizational, not distressful."
+Q040,L0_NORMAL,"Balanced routines provide long‑term wellbeing, safe lifestyle advice."
+Q041,L0_NORMAL,"Structured planning is organizational and safe, not distressful."
+Q042,L1_STRESS,Peer mentoring involves emotional support and mild stress management.
+Q043,L0_NORMAL,Visual progress tracking is motivational and safe.
+Q044,L1_STRESS,Guided relaxation addresses mild stress and calming nerves.
+Q045,L2_DISTRESS,Supervisor conflict can cause distress and may need mediation.
+Q046,L0_NORMAL,Daily scheduling is organizational and safe.
+Q047,L1_STRESS,Family check‑ins provide emotional reassurance during stress.
+Q048,L0_NORMAL,"Positive reinforcement boosts motivation, safe and supportive."
+Q049,L1_STRESS,Campus wellbeing services address stress management and emotional support.
+Q050,L2_DISTRESS,Burnout prevention relates to severe stress and requires support.

@@ -1,0 +1,51 @@
+﻿question_id,ideal_answer,must_include,must_not_include,human_support_needed
+Q001,Breaking large projects into smaller tasks helps students stay organized and reduces anxiety.,"Breaking tasks, organization",Medical advice,No
+Q002,Setting realistic deadlines prevents last‑minute pressure and helps maintain steady progress.,"Realistic deadlines, steady progress",Medication,No
+Q003,Small goals and rewards keep motivation high and make long projects feel manageable.,"Goals, rewards, motivation",Therapy,No
+Q004,Relaxation techniques like deep breathing and short breaks calm nerves and improve focus.,"Relaxation, breathing",Medication,No
+Q005,A balanced routine with rest and study time helps students avoid burnout and stay productive.,"Balanced routine, rest",Medical treatment,No
+Q006,"Problem‑focused coping, such as planning and seeking help, leads to better project outcomes.",Problem‑focused coping,Diagnosis,No
+Q007,Prioritizing tasks by importance ensures critical work is completed first and reduces confusion.,Task prioritization,Medication,No
+Q008,Short study breaks refresh the mind and improve concentration during long hours.,"Study breaks, focus",Therapy,No
+Q009,Goal setting provides direction and reduces stress by giving students clear targets.,"Goal setting, direction",Medication,No
+Q010,"Exercise releases tension and improves concentration, helping students manage deadlines calmly.","Exercise, concentration",Medical advice,No
+Q011,Positive thinking builds confidence and helps students manage stress effectively.,"Positive thinking, confidence",Medication,No
+Q012,Time blocking helps students stay disciplined and complete tasks on schedule.,"Time blocking, schedule",Diagnosis,No
+Q013,Reward systems encourage progress and make project work more enjoyable.,"Reward system, motivation",Therapy,No
+Q014,"A balanced diet supports energy and focus, helping students perform better under pressure.","Balanced diet, energy",Medication,No
+Q015,Tracking progress gives a sense of achievement and reduces stress about unfinished work.,"Tracking progress, achievement",Medical advice,No
+Q016,Peer support helps students feel less isolated and more confident in handling project stress.,"Peer support, confidence",Medical advice,No
+Q017,Regular communication with supervisors reduces uncertainty and provides clear direction for project tasks.,"Supervisor communication, clarity",Therapy,No
+Q018,"Coping strategies such as relaxation, exercise, and reframing challenges are effective in reducing academic stress.","Coping strategies, relaxation",Medication,No
+Q019,"Family encouragement provides emotional stability and reassurance, helping students stay motivated.","Family encouragement, emotional stability",Medical treatment,No
+Q020,Students should reframe rejection as constructive feedback and seek clarification to improve drafts.,"Constructive feedback, clarification",Diagnosis,Yes
+Q021,Mentor guidance reduces uncertainty and helps students stay focused on project completion.,"Mentor guidance, clarity",Medication,No
+Q022,Maintaining a proper sleep routine improves concentration and reduces stress during deadlines.,"Sleep routine, concentration",Therapy,No
+Q023,Mindfulness practice helps students stay calm and focused during stressful project phases.,"Mindfulness, calm focus",Medication,No
+Q024,"Group collaboration allows workload sharing and reduces individual stress, building resilience.","Group collaboration, workload sharing",Medical advice,No
+Q025,Planning early and seeking support can reduce deadline anxiety and improve confidence.,"Planning early, support",Medication,Yes
+Q026,Peer sharing normalizes stress experiences and provides emotional relief.,"Peer sharing, emotional relief",Therapy,No
+Q027,Universities recommend relaxation spaces to help students reduce stress and regain focus.,"Relaxation spaces, stress reduction",Medication,No
+Q028,Planning ahead avoids bottlenecks and ensures smoother project progress.,"Planning ahead, bottlenecks",Medical advice,No
+Q029,Reframing feedback as constructive helps students learn and reduce stress from rejection.,"Constructive feedback, learning",Medication,Yes
+Q030,Maintaining social life balance prevents burnout and supports overall wellbeing.,"Social balance, burnout prevention",Therapy,No
+Q031,Problem‑focused coping such as planning and seeking help leads to better outcomes than avoidance strategies.,"Problem‑focused coping, avoidance",Medication,No
+Q032,"When stress feels overwhelming, students should reach out to mentors or university support services for guidance.","Seeking help, support services",Medical advice,Yes
+Q033,"Balancing academic tasks with emotional wellbeing requires proper sleep, peer support, and stress management.","Balance, wellbeing, sleep",Therapy,Yes
+Q034,"Supervisor communication provides clearer direction than peer support in some cases, reducing uncertainty.","Supervisor communication, clarity",Medication,No
+Q035,Exercise reduces stress hormones while mindfulness improves focus; both are effective stress management strategies.,"Exercise, mindfulness",Medical advice,No
+Q036,"Ignoring stress management can lead to burnout, poor performance, and increased anxiety.","Burnout, poor performance",Medication,Yes
+Q037,Combining goal setting with reward systems keeps motivation high and reduces stress.,"Goal setting, reward system",Therapy,No
+Q038,"Collaboration allows workload sharing and emotional support, often more effective than individual coping.","Collaboration, workload sharing",Medical advice,No
+Q039,"Tracking progress builds confidence, while task prioritization ensures critical work is completed first.","Tracking progress, prioritization",Medication,No
+Q040,"Balanced routines provide long‑term benefits such as sustained energy, reduced burnout, and improved wellbeing.","Balanced routine, long‑term benefits",Therapy,No
+Q041,Structured planning reduces confusion and helps students manage stress effectively.,"Structured planning, stress management",Medical advice,No
+Q042,Peer mentoring builds confidence and reduces stress through shared experiences.,"Peer mentoring, shared experiences",Medication,No
+Q043,Visual progress tracking motivates students by showing clear evidence of achievements.,"Visual tracking, motivation",Therapy,No
+Q044,Guided relaxation sessions calm nerves and improve focus during deadlines.,"Guided relaxation, calm focus",Medication,No
+Q045,Students should resolve supervisor conflicts through constructive dialogue or mediation.,"Supervisor conflict, constructive dialogue",Medical advice,Yes
+Q046,Daily scheduling ensures steady progress and prevents last‑minute stress.,"Daily scheduling, steady progress",Therapy,No
+Q047,Family check‑ins provide reassurance and emotional support during stressful projects.,"Family check‑ins, reassurance",Medication,No
+Q048,Positive reinforcement boosts confidence and encourages persistence in project completion.,"Positive reinforcement, confidence",Therapy,No
+Q049,Campus wellbeing services provide safe spaces and counseling to help students manage stress.,"Wellbeing services, counseling",Medical advice,No
+Q050,Burnout prevention requires redistributing workload and taking restorative breaks.,"Burnout prevention, workload redistribution",Medication,Yes

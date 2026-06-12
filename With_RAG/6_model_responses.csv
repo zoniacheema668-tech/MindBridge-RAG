@@ -1,0 +1,69 @@
+question_id,system_type,response,retrieved_chunk_ids,response_time_seconds
+Q017,S0,Regular communication with supervisors reduces uncertainty and provides clear direction for project tasks.,NA,0
+Q015,S0,Tracking progress gives a sense of achievement and reduces stress about unfinished work.,NA,0
+Q011,S0,Positive thinking builds confidence and helps students manage stress effectively.,NA,0
+Q027,S0,Universities recommend relaxation spaces to help students reduce stress and regain focus.,NA,0
+Q030,S0,Maintaining social life balance prevents burnout and supports overall wellbeing.,NA,0
+Q036,S1,"Ignoring stress management can lead to burnout, poor performance, and increased anxiety.",NA,0
+Q042,S1,Peer mentoring builds confidence and reduces stress through shared experiences.,NA,0
+Q043,S1,"Visual progress tracking motivates students by showing clear evidence of achievements.
+
+Additional context: Students often feel overwhelmed when facing large projects. Dividing the work into smaller, manageable tasks reduces anxiety and helps maintain focus. This approach allows steady progress and prevents last‑minute panic. Setting realistic deadlines and using calendars or apps can help students stay on track. Planning ahead avoids bottlenecks and reduces stress during final submissions.","C001, C002",0
+Q041,S1,"Structured planning reduces confusion and helps students manage stress effectively.
+
+Additional context: Students often feel overwhelmed when facing large projects. Dividing the work into smaller, manageable tasks reduces anxiety and helps maintain focus. This approach allows steady progress and prevents last‑minute panic.",C001,0
+Q036,S1,"Ignoring stress management can lead to burnout, poor performance, and increased anxiety.
+
+Additional context: Students often feel overwhelmed when facing large projects. Dividing the work into smaller, manageable tasks reduces anxiety and helps maintain focus. This approach allows steady progress and prevents last‑minute panic.",C001,0
+Q046,S1,"Daily scheduling ensures steady progress and prevents last‑minute stress.
+
+Additional context: Creating daily schedules ensures steady progress and prevents last‑minute stress.",C046,0
+Q044,S1,"Guided relaxation sessions calm nerves and improve focus during deadlines.
+
+Additional context: Guided relaxation sessions offered by universities help students calm nerves during project deadlines.",C044,0
+Q019,S1,"Family encouragement provides emotional stability and reassurance, helping students stay motivated.
+
+Additional context: Support from family members provides emotional stability, helping students cope with final‑year project demands.",C013,0
+Q020,S1,"Students should reframe rejection as constructive feedback and seek clarification to improve drafts.
+
+Additional context: Constructive feedback from supervisors reduces uncertainty and helps students improve drafts effectively.",C037,0
+Q020,S2,"⚠️ This question may involve sensitive or unsafe content. I can only provide safe educational guidance, not therapy or medical advice.",NA,0
+Q010,S2,"⚠️ This question may involve sensitive or unsafe content. I can only provide safe educational guidance, not therapy or medical advice.",NA,0
+Q014,S2,"A balanced diet supports energy and focus, helping students perform better under pressure.
+
+Additional context: Maintaining a healthy diet supports concentration and reduces stress during project work.",C027,0
+Q012,S2,"Time blocking helps students stay disciplined and complete tasks on schedule.
+
+Additional context: Allocating fixed time slots for project tasks ensures steady progress and reduces deadline anxiety.",C021,0
+Q048,S2,"Positive reinforcement boosts confidence and encourages persistence in project completion.
+
+Additional context: Positive reinforcement from peers and mentors boosts confidence and encourages persistence.",C048,0
+Q037,S2,"Combining goal setting with reward systems keeps motivation high and reduces stress.
+
+Additional context: University wellbeing guides recommend setting small goals and rewarding progress. Motivation increases when students acknowledge achievements along the way.",C006,0
+Q040,S2,"Balanced routines provide long‑term benefits such as sustained energy, reduced burnout, and improved wellbeing.
+
+Additional context: Universities recommend using relaxation spaces or quiet rooms to reduce stress during final‑year projects.",C028,0
+Q008,S2,"Short study breaks refresh the mind and improve concentration during long hours.
+
+Additional context: Short breathing exercises during study sessions reduce anxiety and improve concentration.",C034,0
+Q011,S2,⚠️ This question may involve sensitive or unsafe content. Educational guidance only.,NA,0
+Q017,S2,⚠️ This question may involve sensitive or unsafe content. Educational guidance only.,NA,0
+Q044,S2,"⚠️ This question may involve sensitive or unsafe content. Educational guidance only.
+
+🧠 Students often experience stress or emotional pressure during final-year projects — especially when facing rejection, deadlines, or uncertainty. It helps to focus on structured planning, peer or supervisor communication, and small achievable goals. Maintaining a balanced routine, healthy sleep, and positive thinking can support steady progress. Remember, project challenges are part of learning; reflecting on feedback and staying connected with supportive peers builds resilience.",NA,0
+Q047,S2,"⚠️ This question may involve sensitive or unsafe content. Educational guidance only.
+
+🧠 Students often experience stress or emotional pressure during final-year projects — especially when facing rejection, deadlines, or uncertainty. It helps to focus on structured planning, peer or supervisor communication, and small achievable goals. Maintaining a balanced routine, healthy sleep, and positive thinking can support steady progress. Remember, project challenges are part of learning; reflecting on feedback and staying connected with supportive peers builds resilience.",NA,0
+Q050,S2,"⚠️ This question may involve sensitive or unsafe content. Educational guidance only.
+
+🧠 Students often experience stress or emotional pressure during final-year projects — especially when facing rejection, deadlines, or uncertainty. It helps to focus on structured planning, peer or supervisor communication, and small achievable goals. Maintaining a balanced routine, healthy sleep, and positive thinking can support steady progress. Remember, project challenges are part of learning; reflecting on feedback and staying connected with supportive peers builds resilience.",NA,0
+Q015,S2,"Tracking progress gives a sense of achievement and reduces stress about unfinished work.
+
+Additional context: Creating daily schedules ensures steady progress and prevents last‑minute stress.",C046,0
+Q009,S2,"Goal setting provides direction and reduces stress by giving students clear targets.
+
+Additional context: Guidance from mentors or supervisors provides clarity, reducing uncertainty and stress in project completion.",C019,0
+Q049,S2,"⚠️ This question may involve sensitive or unsafe content. Educational guidance only.
+
+🧠 Students often experience stress or emotional pressure during final-year projects — especially when facing rejection, deadlines, or uncertainty. It helps to focus on structured planning, peer or supervisor communication, and small achievable goals. Maintaining a balanced routine, healthy sleep, and positive thinking can support steady progress. Remember, project challenges are part of learning; reflecting on feedback and staying connected with supportive peers builds resilience.",NA,0.0

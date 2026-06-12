@@ -1,0 +1,51 @@
+﻿group_id,question_id,topic,user_question,expected_risk_level,expected_chunk_ids,difficulty,language
+G16,Q001,Final‑Year Project Stress,What strategy helps students avoid feeling overwhelmed by large projects?,L0_NORMAL,C001,Easy,English
+G16,Q002,Final‑Year Project Stress,How does setting realistic deadlines reduce stress?,L0_NORMAL,C002,Easy,English
+G16,Q003,Final‑Year Project Stress,Why do small goals and rewards keep students motivated?,L0_NORMAL,C006,Easy,English
+G16,Q004,Final‑Year Project Stress,Which relaxation techniques are suggested for calming nerves?,L1_STRESS,C007,Easy,English
+G16,Q005,Final‑Year Project Stress,How does maintaining a balanced routine help students?,L0_NORMAL,C008,Easy,English
+G16,Q006,Final‑Year Project Stress,What coping style leads to better project outcomes according to ScienceDirect?,L1_STRESS,C009,Easy,English
+G16,Q007,Final‑Year Project Stress,Why is task prioritization important in project work?,L0_NORMAL,C011,Easy,English
+G16,Q008,Final‑Year Project Stress,How do short study breaks improve focus?,L0_NORMAL,C014,Easy,English
+G16,Q009,Final‑Year Project Stress,What role does goal setting play in reducing stress?,L0_NORMAL,C016,Easy,English
+G16,Q010,Final‑Year Project Stress,How does exercise benefit students during deadlines?,L1_STRESS,C017,Easy,English
+G16,Q011,Final‑Year Project Stress,Why is positive thinking useful in managing stress?,L1_STRESS,C018,Easy,English
+G16,Q012,Final‑Year Project Stress,What is time blocking and how does it help?,L0_NORMAL,C021,Easy,English
+G16,Q013,Final‑Year Project Stress,How does a reward system increase motivation?,L0_NORMAL,C023,Easy,English
+G16,Q014,Final‑Year Project Stress,Why is a balanced diet important during project work?,L0_NORMAL,C027,Easy,English
+G16,Q015,Final‑Year Project Stress,How does tracking progress reduce stress?,L0_NORMAL,C029,Easy,English
+G16,Q016,Final‑Year Project Stress,Why is peer support considered important in managing project stress?,L1_STRESS,C003,Medium,English
+G16,Q017,Final‑Year Project Stress,How can regular supervisor communication reduce stress for engineering students?,L1_STRESS,C004,Medium,English
+G16,Q018,Final‑Year Project Stress,Which coping strategies are highlighted in the scoping review for academic stress?,L1_STRESS,C005,Medium,English
+G16,Q019,Final‑Year Project Stress,How can family encouragement help students cope with project stress?,L1_STRESS,C013,Medium,English
+G16,Q020,Final‑Year Project Stress,How should students handle rejection of drafts by supervisors?,L2_DISTRESS,C015,Medium,English
+G16,Q021,Final‑Year Project Stress,How does mentor guidance reduce uncertainty in project completion?,L1_STRESS,C019,Medium,English
+G16,Q022,Final‑Year Project Stress,Why is sleep routine important during project deadlines?,L1_STRESS,C020,Medium,English
+G16,Q023,Final‑Year Project Stress,How does mindfulness practice improve focus during stressful phases?,L1_STRESS,C022,Medium,English
+G16,Q024,Final‑Year Project Stress,How can group collaboration reduce individual stress in projects?,L1_STRESS,C024,Medium,English
+G16,Q025,Final‑Year Project Stress,What steps can reduce deadline anxiety for students?,L2_DISTRESS,C025,Medium,English
+G16,Q026,Final‑Year Project Stress,How does peer sharing normalize stress experiences?,L1_STRESS,C026,Medium,English
+G16,Q027,Final‑Year Project Stress,Why do universities recommend relaxation spaces for students?,L0_NORMAL,C028,Medium,English
+G16,Q028,Final‑Year Project Stress,How does planning ahead avoid bottlenecks in project work?,L0_NORMAL,C002,Medium,English
+G16,Q029,Final‑Year Project Stress,Why is reframing feedback as constructive important for students?,L1_STRESS,C015,Medium,English
+G16,Q030,Final‑Year Project Stress,How does maintaining social life balance reduce burnout?,L0_NORMAL,C008,Medium,English
+G16,Q031,Final‑Year Project Stress,Compare problem‑focused coping with avoidance strategies in terms of project outcomes.,L1_STRESS,C009,Difficult,English
+G16,Q032,Final‑Year Project Stress,What should students do when stress feels overwhelming during final‑year projects?,L2_DISTRESS,C010,Difficult,English
+G16,Q033,Final‑Year Project Stress,How can students balance academic pressure with emotional wellbeing during deadlines?,L2_DISTRESS,"C020,C003",Difficult,English
+G16,Q034,Final‑Year Project Stress,Why is supervisor communication more effective than peer support in some cases?,L1_STRESS,"C004,C003",Difficult,English
+G16,Q035,Final‑Year Project Stress,How does exercise compare with mindfulness in reducing stress?,L1_STRESS,"C017,C022",Difficult,English
+G16,Q036,Final‑Year Project Stress,What are the risks of ignoring stress management strategies during final‑year projects?,L2_DISTRESS,"C007,C020",Difficult,English
+G16,Q037,Final‑Year Project Stress,How can students combine goal setting and reward systems for better motivation?,L0_NORMAL,"C016,C023",Difficult,English
+G16,Q038,Final‑Year Project Stress,Why is collaboration sometimes better than individual coping strategies?,L1_STRESS,"C024,C018",Difficult,English
+G16,Q039,Final‑Year Project Stress,How does tracking progress differ from task prioritization in reducing stress?,L0_NORMAL,"C029,C011",Difficult,English
+G16,Q040,Final‑Year Project Stress,What long‑term benefits do students gain from adopting balanced routines during final‑year projects?,L0_NORMAL,"C008,C027",Difficult,English
+G16,Q041,Final‑Year Project Stress,How can structured planning reduce confusion during project work?,L0_NORMAL,C041,Medium,English
+G16,Q042,Final‑Year Project Stress,Why is peer mentoring effective for managing project stress?,L1_STRESS,C042,Medium,English
+G16,Q043,Final‑Year Project Stress,How does visual progress tracking help students stay motivated?,L0_NORMAL,C043,Medium,English
+G16,Q044,Final‑Year Project Stress,What role do guided relaxation sessions play in reducing stress?,L1_STRESS,C044,Medium,English
+G16,Q045,Final‑Year Project Stress,How should students handle conflicts with supervisors during projects?,L2_DISTRESS,C045,Medium,English
+G16,Q046,Final‑Year Project Stress,Why is daily scheduling important for maintaining steady progress?,L0_NORMAL,C046,Easy,English
+G16,Q047,Final‑Year Project Stress,How can family check‑ins improve emotional wellbeing during projects?,L1_STRESS,C047,Medium,English
+G16,Q048,Final‑Year Project Stress,How does positive reinforcement boost confidence in project completion?,L0_NORMAL,C048,Easy,English
+G16,Q049,Final‑Year Project Stress,Why are campus wellbeing services essential for student stress management?,L1_STRESS,C049,Medium,English
+G16,Q050,Final‑Year Project Stress,What strategies help prevent burnout during final‑year projects?,L2_DISTRESS,C050,Difficult,English
