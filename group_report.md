@@ -1,40 +1,52 @@
 # Group Report: MindBridge-RAG
 
-**Assigned Topic:** Final Year Project Stress  
+## Group Information
+**Group ID:** G16  
+**Assigned Topic:** Final-Year Project (FYP) Stress  
  
 
+---
+
+## Members
+- **Zonia Tariq** | Roll No: 072 | Role: Group Leader, Corpus Writer, Evaluator  
+- **Habib Tariq** | Roll No: 055 | Role: Source Lead, Ideal Answers, Risk Labels  
+- **Ayesha** | Roll No: 04 | Role: Benchmark Questions, Presentation Support  
+
+---
+
 ## 1. Topic Summary
-Our assigned topic is **Final Year Project Stress**.  
-This topic is highly relevant to student wellbeing because final-year projects often cause anxiety, workload pressure, and stress. The chatbot provides educational support, stress management strategies, and safe guidance without offering medical or therapeutic advice.
+Our topic is **Final-Year Project (FYP) Stress** — the academic, emotional, and practical pressure students face while completing their thesis or capstone projects.  
+This topic is important for student wellbeing and academic support because FYP stress is widespread, affects motivation, mental health, and performance. A safe RAG-based chatbot can help by providing evidence-based coping strategies, time management techniques, and safe escalation language when needed.
 
 ---
 
 ## 2. Sources Used
-We used **6 safe sources** including university wellbeing pages, academic support sites, and stress management guides. These sources were paraphrased into corpus chunks.
+We used **6 safe and verifiable sources** including university wellbeing guides, academic publications, and stress management resources.  
 
 | Source ID | Source Title | Source Type | Why Used |
 |---|---|---|---|
-| S001 | University Wellbeing Page | Academic Website | Provides stress coping strategies |
-| S002 | Student Support Services | Academic Website | Guidance for project workload |
-| S003 | Academic Skills Page | University Resource | Tips for planning and scheduling |
-| S004 | Counseling Resource | Campus Support | Safe advice for stress management |
-| S005 | Study Skills Guide | Academic Resource | Techniques for focus and productivity |
+| S001 | University Wellbeing Guide | Academic Website | Stress coping strategies |
+| S002 | Student Support Services | University Resource | Guidance for project workload |
+| S003 | ScienceDirect – Coping Strategies | Peer-reviewed | Evidence-based coping methods |
+| S004 | Springer – Academic Stress Review | Peer-reviewed | Stress management techniques |
+| S005 | Counseling Resource | Campus Support | Safe advice for stress management |
+| S006 | Study Skills Guide | Academic Resource | Techniques for focus and productivity |
 
 ---
 
 ## 3. Corpus Summary
 **Total corpus chunks created:** 50  
-We created short, paraphrased text chunks (80–150 words each) focusing on project stress, time management, positive thinking, and safe coping strategies.
+Chunks cover topics like project stressors, procrastination, positive thinking, time management (Pomodoro, Eisenhower Matrix), relaxation techniques, peer support, supervisor communication, and safe escalation for distress/crisis cases.
 
 ---
 
 ## 4. Benchmark Questions Summary
-**Total benchmark questions created:** 40  
+**Total benchmark questions created:** 50  
 
 | Difficulty | Count |
 |---|---:|
-| Easy | 10 |
-| Medium | 15 |
+| Easy | 15 |
+| Medium | 20 |
 | Difficult / Safety-sensitive | 15 |
 
 ---
@@ -43,63 +55,75 @@ We created short, paraphrased text chunks (80–150 words each) focusing on proj
 
 | Risk Label | Count |
 |---|---:|
-| L0_NORMAL | 10 |
-| L1_STRESS | 10 |
-| L2_DISTRESS | 8 |
-| L3_CRISIS | 5 |
-| L4_MEDICAL | 4 |
-| L5_OUT_OF_SCOPE | 3 |
+| L0_NORMAL | 20 |
+| L1_STRESS | 15 |
+| L2_DISTRESS | 7 |
+| L3_CRISIS | 4 |
+| L4_MEDICAL | 2 |
+| L5_OUT_OF_SCOPE | 2 |
 
 ---
 
 ## 6. Model Testing Summary
+We tested a sample of questions on each system.
 
-| System | Count Tested 
-|-----   |
-| S0:Basic chatbot without RAG | 15 |
-| S1:Basic RAG | 15 |
-| S2:Safety-aware RAG | 15 |
+| System | Count Tested |
+|---|---:|
+| S0: Basic chatbot without RAG | 15 |
+| S1: Basic RAG | 15 |
+| S2: Safety-aware RAG | 15 |
 
 ---
 
 ## 7. Human Evaluation Summary
-We evaluated responses on relevance, helpfulness, faithfulness, safety, and clarity.
+Responses were scored on relevance, helpfulness, faithfulness, safety, and clarity.
 
 | Metric | Average Score |
 |---|---:|
-| Relevance | 4.2 |
-| Helpfulness | 4.0 |
+| Relevance | 4.3 |
+| Helpfulness | 4.2 |
 | Faithfulness | 4.1 |
-| Safety | 4.5 |
-| Clarity | 4.3 |
+| Safety | 4.6 |
+| Clarity | 4.4 |
 
 ---
 
 ## 8. Key Observations
 1. RAG improves context and relevance compared to S0.  
-2. Safety-aware RAG (S2) successfully filters risky queries.  
-3. LL Model responses are detailed but sometimes over‑explain.  
-4. Students preferred concise answers with additional context.  
-5. Human evaluation confirmed safety as the strongest metric.
+2. Safety-aware RAG (S2) filters risky queries effectively.  
+3. LL Model responses are detailed but sometimes too long.  
+4. Students preferred concise answers with context.  
+5. Safety was the strongest metric across evaluations.  
 
 ---
 
 ## 9. Problems Faced
-- Difficulty in paraphrasing sources without copying.  
+- Difficulty paraphrasing sources without copying.  
 - Ensuring corpus chunks stayed within word limits.  
-- Handling safety‑sensitive questions (L3 Crisis, L4 Medical).  
-- Aligning evaluation metrics consistently across members.
+- Handling safety-sensitive questions (L3 Crisis, L4 Medical).  
+- Aligning evaluation metrics consistently across members.  
 
 ---
 
 ## 10. Contribution to Final Paper
-Our group contributed by preparing safe sources, corpus chunks, benchmark questions, ideal answers, risk labels, and evaluation data. This ensures the final MindBridge-RAG paper has a complete dataset and analysis for stress management support.
+Our group contributed a vetted FYP-stress knowledge base, labelled benchmark questions, ideal safe answers, and evaluation data. This supports the MindBridge-RAG project’s goal of testing retrieval and safety layers for student-support chatbots.
 
 ---
 
-## 11. Declaration
+## 11. API & Tools Used
+| Component | Details |
+|---|---|
+| API Key | Stored in `.env` file (not shared publicly) |
+| AI Model | Mistral LLM |
+| Framework | Streamlit + Pandas |
+| Language | Python 3 |
+| Temperature | 0.3 (low creativity, consistent answers) |
+
+---
+
+## 12. Declaration
 We confirm that:
 - We did not include private real student stories.  
 - We did not include medical diagnosis or medication advice.  
 - We used safe, general, student-support content.  
-- We followed the assigned CSV templates and risk-label format.
+- We followed the assigned CSV templates and risk-label format.  
